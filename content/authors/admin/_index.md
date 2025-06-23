@@ -1,17 +1,14 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Jorge Luis Montero-Mestre
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jorge
+last_name: Montero-Mestre
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ☕
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,65 +21,51 @@ role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Universidad de los Andes
+    url: https://economia.uniandes.edu.co/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:jl.montero@uniandes.edu.co'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://x.com/jorgelmm0809
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/JorgePhD
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: www.linkedin.com/in/jorge-luis-montero-mestre-9b27a8150
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com.co/citations?user=kztSTOIAAAAJ&hl=en
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-2903-491X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Environmental and Natural Resources Economics
+  - Development Economics
+  - Applied Econometrics
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Economics
+    institution: Universidad de los Andes
+    date_start: 2020-08-01
+    date_end: 2025-04-22
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Three empirical essays on marine economics and illegal fishing. Supervised by [Prof Jorge H. Maldonado](https://economia.uniandes.edu.co/profesores/jorge-higinio-maldonado).
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      url: 'https://repositorio.uniandes.edu.co/entities/publication/781aad63-8e98-4a81-9fe6-db030a2e3e3a'
+  - area: MSc Economics
+    institution: Universidad de los Andes
+    date_start: 2020-08-01
+    date_end: 2023-04-30
+    
+  - area: BSc Economics
+    institution: Universidad de Cartagena
+    date_start: 2013-08-01
+    date_end: 2019-05-28
+    
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
