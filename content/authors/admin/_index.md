@@ -35,7 +35,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/JorgePhD
   - icon: brands/linkedin
-    url: www.linkedin.com/in/jorge-luis-montero-mestre-9b27a8150
+    url: https://linkedin.com/in/jorge-luis-montero-mestre-9b27a8150
   - icon: academicons/google-scholar
     url: https://scholar.google.com.co/citations?user=kztSTOIAAAAJ&hl=en
   - icon: academicons/orcid
